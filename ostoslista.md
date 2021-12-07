@@ -2,3 +2,4 @@
 - Kaljaa
 - Lihapullia
 - Viinaa
+- Vihta
